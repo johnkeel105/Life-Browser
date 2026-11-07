@@ -2,7 +2,7 @@
 
 > *"Because Vita means Life."*
 
-An ambitious, community-driven architecture blueprint aiming to build a modernized, high-performance web browser for the PlayStation Vita and PlayStation TV. By decompiling, patching, and wrapping the console's native web engine into a hardware-accelerated "Game Mode" shell, **Life Browser** breathes new life into the handheld's internet capabilities.
+An ambitious, community-driven architecture blueprint aiming to build a modernized, high-performance web browser for the PlayStation Vita and PlayStation TV in two methods. First by porting LiteHTML to Vita using VitaGL. Then by decompiling, patching, and wrapping the console's native web engine into a hardware-accelerated "Game Mode" shell, **Life Browser** breathes new life into the handheld's internet capabilities.
 
 ---
 
