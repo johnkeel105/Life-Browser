@@ -1,4 +1,4 @@
-# 🌐 Life Browser (Project VitaBrowse-X)
+# 🌐 Life Browser
 
 > *"Because Vita means Life."*
 
